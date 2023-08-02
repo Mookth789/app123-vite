@@ -97,27 +97,27 @@
 					<div class="diygw-col-19">
 						<div class="diygw-search">
 							<div class="flex1 align-center flex padding-xs solid radius">
-								<span style="color: #555 !important" class="diy-icon-search"></span>
-								<van-field class="flex1" name="search1" type="" v-model="search1" placeholder="请输入关键字"></van-field>
+								<span style="color: #555 " class="diy-icon-search"></span>
+								<van-field class="flex1" name="search1" type="" v-model="search1" placeholder=""></van-field>
 							</div>
 						</div>
 					</div>
 					<div class="flex diygw-col-0">
 						<div class="diygw-avatar avatar-avatar xs radius bg-none">
-							<img mode="aspectFit" class="diygw-avatar-img radius" src="./src/static/icon15_yj.png" />
+							<img mode="aspectFit" class="diygw-avatar-img radius" src="./static/icon15_yj.png" />
 							<div class="diygw-tag badge avatar-badge-0 red">1</div>
 						</div>
 					</div>
 					<div class="flex diygw-col-0">
 						<div class="diygw-tag margin-xs radius">
-							<img class="diygw-tag-img" src="./src/static/icon8_qd.png" />
+							<img class="diygw-tag-img" src="./static/icon8_qd.png" />
 							<span> 签到 </span>
 						</div>
 					</div>
 				</div>
 				<div class="flex diygw-col-24">
 					<van-notice-bar class="flex1 diy-notice-bar" scrollable color="#07c160" background="#fff" left-icon=" diy-icon-notification">
-						<span class="diy-notice-item"> DIY官网做最好的拖拽式可视化设计工具 </span>
+						<span class="diy-notice-item"> GMTH</span>
 					</van-notice-bar>
 				</div>
 				<div class="flex diygw-col-24 justify-between items-center flex-nowrap flex1-clz">

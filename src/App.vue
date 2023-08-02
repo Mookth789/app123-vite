@@ -104,13 +104,13 @@
 					</div>
 					<div class="flex diygw-col-0">
 						<div class="diygw-avatar avatar-avatar xs radius bg-none">
-							<img mode="aspectFit" class="diygw-avatar-img radius" src="./static/icon15_yj.png" />
+							<img mode="aspectFit" class="diygw-avatar-img radius" src="./src/static/icon15_yj.png" />
 							<div class="diygw-tag badge avatar-badge-0 red">1</div>
 						</div>
 					</div>
 					<div class="flex diygw-col-0">
 						<div class="diygw-tag margin-xs radius">
-							<img class="diygw-tag-img" src="./static/icon8_qd.png" />
+							<img class="diygw-tag-img" src="./src/static/icon8_qd.png" />
 							<span> 签到 </span>
 						</div>
 					</div>
